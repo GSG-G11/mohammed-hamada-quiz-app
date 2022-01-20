@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400&display=swap');
+* {
+    box-sizing: border-box;
+    font-family: 'Cairo', sans-serif;
+}
+
+body {
+    background-color: #0D1D2C;
+}
+
+i {
+    color: #fff;
+}
+
+.app-title {
+    color: #fff;
+    font-size: 96px;
+    text-align: center;
+}
